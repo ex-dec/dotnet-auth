@@ -43,7 +43,7 @@ jobs:
         run: mkdir -p $HOME/.kube
       - name: Authenticate to Kubernetes cluster
         run: |
-          echo "${{ secrets.KUBE_CONFIG }}" | base64 --decode > $HOME/.kube/config
+          echo "${{ secrets.KUBE_CONFIG }}" | cat > $HOME/.kube/config
       - name: Deploy to Kubernetes
         run: |
           kubectl apply -f k8s/deployment.yaml
