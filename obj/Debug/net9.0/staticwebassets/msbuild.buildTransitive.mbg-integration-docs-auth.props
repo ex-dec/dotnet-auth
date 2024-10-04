@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/mbg-integration-docs-auth.props" />
-</Project>
