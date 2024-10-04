@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/mbg-integration-docs-auth.props" />
+</Project>

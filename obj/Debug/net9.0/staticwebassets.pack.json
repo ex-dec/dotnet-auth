@@ -1,0 +1,205 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/obj/Debug/net9.0/scopedcss/projectbundle/mbg-integration-docs-auth.bundle.scp.css",
+      "PackagePath": "staticwebassets/mbg-integration-docs-auth.0bxcygoxea.bundle.scp.css"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/css/style.bundle.css",
+      "PackagePath": "staticwebassets/css/style.bundle.css"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/media/auth/bg4-dark.jpg",
+      "PackagePath": "staticwebassets/media/auth/bg4-dark.jpg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/media/auth/bg4.jpg",
+      "PackagePath": "staticwebassets/media/auth/bg4.jpg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/media/logos/bgn-icon.svg",
+      "PackagePath": "staticwebassets/media/logos/bgn-icon.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/media/logos/bgn-logo.svg",
+      "PackagePath": "staticwebassets/media/logos/bgn-logo.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/@fortawesome/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/@fortawesome/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-duotone.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-duotone.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-duotone.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-duotone.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-duotone.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-duotone.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-duotone.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-duotone.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-outline.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-outline.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-outline.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-outline.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-outline.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-outline.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-outline.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-outline.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-solid.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-solid.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-solid.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-solid.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-solid.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-solid.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/keenicons/keenicons-solid.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/keenicons/keenicons-solid.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-brands-400.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-brands-400.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-brands-400.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-brands-400.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-brands-400.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-brands-400.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-brands-400.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-brands-400.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-brands-400.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-brands-400.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-regular-400.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-regular-400.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-regular-400.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-regular-400.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-regular-400.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-regular-400.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-regular-400.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-regular-400.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-regular-400.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-regular-400.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-solid-900.eot",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-solid-900.eot"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-solid-900.svg",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-solid-900.svg"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-solid-900.ttf",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-solid-900.ttf"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-solid-900.woff",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-solid-900.woff"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/fonts/line-awesome/la-solid-900.woff2",
+      "PackagePath": "staticwebassets/plugins/global/fonts/line-awesome/la-solid-900.woff2"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/plugins.bundle.css",
+      "PackagePath": "staticwebassets/plugins/global/plugins.bundle.css"
+    },
+    {
+      "Id": "/home/ex-dec/project/sindika/mbg-integration-docs-auth/wwwroot/plugins/global/plugins.bundle.js",
+      "PackagePath": "staticwebassets/plugins/global/plugins.bundle.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.mbg-integration-docs-auth.props",
+      "PackagePath": "build\\mbg-integration-docs-auth.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.mbg-integration-docs-auth.props",
+      "PackagePath": "buildMultiTargeting\\mbg-integration-docs-auth.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.mbg-integration-docs-auth.props",
+      "PackagePath": "buildTransitive\\mbg-integration-docs-auth.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.mbg-integration-docs-auth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.mbg-integration-docs-auth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

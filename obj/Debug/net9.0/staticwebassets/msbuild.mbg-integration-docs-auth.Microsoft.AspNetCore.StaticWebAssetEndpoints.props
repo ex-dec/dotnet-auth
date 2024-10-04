@@ -1,0 +1,544 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/css/style.bundle.8si9x0lkuw.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.bundle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8si9x0lkuw"},{"Name":"integrity","Value":"sha256-WNgbd5wcSQt/uu9/M8ddpQp92hpc3Xera\u002B4/0K7/tMQ="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/css/style.bundle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1379848"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WNgbd5wcSQt/uu9/M8ddpQp92hpc3Xera\u002B4/0K7/tMQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/css/style.bundle.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\style.bundle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WNgbd5wcSQt/uu9/M8ddpQp92hpc3Xera\u002B4/0K7/tMQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1379848"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022WNgbd5wcSQt/uu9/M8ddpQp92hpc3Xera\u002B4/0K7/tMQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/mbg-integration-docs-auth.0bxcygoxea.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mbg-integration-docs-auth.0bxcygoxea.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0bxcygoxea"},{"Name":"integrity","Value":"sha256-nJUAi4ukOWMwp6DuJPrxozn1MysHc5HPwgqFRanLCv8="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/mbg-integration-docs-auth.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1094"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJUAi4ukOWMwp6DuJPrxozn1MysHc5HPwgqFRanLCv8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 23:22:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/mbg-integration-docs-auth.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\mbg-integration-docs-auth.0bxcygoxea.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nJUAi4ukOWMwp6DuJPrxozn1MysHc5HPwgqFRanLCv8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1094"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nJUAi4ukOWMwp6DuJPrxozn1MysHc5HPwgqFRanLCv8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 23:22:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/auth/bg4-dark.jm06b1znj6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\auth\bg4-dark.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jm06b1znj6"},{"Name":"integrity","Value":"sha256-VTjFBDPAZaetb3Ylu\u002BA8C3ZKe26Bf8QHNRrERgCPFCo="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/media/auth/bg4-dark.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"34429"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VTjFBDPAZaetb3Ylu\u002BA8C3ZKe26Bf8QHNRrERgCPFCo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/auth/bg4-dark.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\auth\bg4-dark.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VTjFBDPAZaetb3Ylu\u002BA8C3ZKe26Bf8QHNRrERgCPFCo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"34429"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022VTjFBDPAZaetb3Ylu\u002BA8C3ZKe26Bf8QHNRrERgCPFCo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/auth/bg4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\auth\bg4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vY2TdOnEjlasnbxmgtATzUFJL7qVXKuR4OMJMY2frQw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"60336"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vY2TdOnEjlasnbxmgtATzUFJL7qVXKuR4OMJMY2frQw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/auth/bg4.vxga2vi71t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\auth\bg4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vxga2vi71t"},{"Name":"integrity","Value":"sha256-vY2TdOnEjlasnbxmgtATzUFJL7qVXKuR4OMJMY2frQw="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/media/auth/bg4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"60336"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vY2TdOnEjlasnbxmgtATzUFJL7qVXKuR4OMJMY2frQw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/logos/bgn-icon.ns1mau7fer.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\logos\bgn-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ns1mau7fer"},{"Name":"integrity","Value":"sha256-aZtndiLJzsmCSLNQy6zkZvd3QVBwSrLjyNJcLstfF/k="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/media/logos/bgn-icon.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8513"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022aZtndiLJzsmCSLNQy6zkZvd3QVBwSrLjyNJcLstfF/k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/logos/bgn-icon.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\logos\bgn-icon.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aZtndiLJzsmCSLNQy6zkZvd3QVBwSrLjyNJcLstfF/k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8513"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022aZtndiLJzsmCSLNQy6zkZvd3QVBwSrLjyNJcLstfF/k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/logos/bgn-logo.invninh7xx.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\logos\bgn-logo.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"invninh7xx"},{"Name":"integrity","Value":"sha256-AiIEjP7MltCFil17NmIuRw0r7G0iJBAxsg5qFd5uT50="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/media/logos/bgn-logo.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16801"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022AiIEjP7MltCFil17NmIuRw0r7G0iJBAxsg5qFd5uT50=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/media/logos/bgn-logo.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\media\logos\bgn-logo.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AiIEjP7MltCFil17NmIuRw0r7G0iJBAxsg5qFd5uT50="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"16801"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022AiIEjP7MltCFil17NmIuRw0r7G0iJBAxsg5qFd5uT50=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.288l4os7wu.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"288l4os7wu"},{"Name":"integrity","Value":"sha256-4oCW\u002BnWpasdwIBVeo6bdcxKYPoQRU2bUz0mgwxLsbVE="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"209128"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00224oCW\u002BnWpasdwIBVeo6bdcxKYPoQRU2bUz0mgwxLsbVE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.dc282hz7ch.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dc282hz7ch"},{"Name":"integrity","Value":"sha256-IyxvanZ4ME\u002Be\u002BqJvMLFhDevCup9M1ja15nUcjXN2G5I="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117852"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022IyxvanZ4ME\u002Be\u002BqJvMLFhDevCup9M1ja15nUcjXN2G5I=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4oCW\u002BnWpasdwIBVeo6bdcxKYPoQRU2bUz0mgwxLsbVE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"209128"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00224oCW\u002BnWpasdwIBVeo6bdcxKYPoQRU2bUz0mgwxLsbVE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IyxvanZ4ME\u002Be\u002BqJvMLFhDevCup9M1ja15nUcjXN2G5I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"117852"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022IyxvanZ4ME\u002Be\u002BqJvMLFhDevCup9M1ja15nUcjXN2G5I=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.th1wlgnf26.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"th1wlgnf26"},{"Name":"integrity","Value":"sha256-kXR1fvyD4HJDboc8Ir4WY9PBA7ChbX\u002B3NWmvSRjU01E="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67860"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022kXR1fvyD4HJDboc8Ir4WY9PBA7ChbX\u002B3NWmvSRjU01E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kXR1fvyD4HJDboc8Ir4WY9PBA7ChbX\u002B3NWmvSRjU01E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"67860"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022kXR1fvyD4HJDboc8Ir4WY9PBA7ChbX\u002B3NWmvSRjU01E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wn2m\u002BDNDHaWqKVxEVAv6wP2CcLpqPENGQnAG2KezS3Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"25392"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022wn2m\u002BDNDHaWqKVxEVAv6wP2CcLpqPENGQnAG2KezS3Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.yf86mn4tjc.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yf86mn4tjc"},{"Name":"integrity","Value":"sha256-wn2m\u002BDNDHaWqKVxEVAv6wP2CcLpqPENGQnAG2KezS3Y="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"25392"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022wn2m\u002BDNDHaWqKVxEVAv6wP2CcLpqPENGQnAG2KezS3Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.o5k1q0n6zh.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o5k1q0n6zh"},{"Name":"integrity","Value":"sha256-tJkNDQxfXTjWLpNu6hIGdOWEx\u002B6o3O44qXXAz5o3U5s="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"420332"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022tJkNDQxfXTjWLpNu6hIGdOWEx\u002B6o3O44qXXAz5o3U5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.qxnuj0dqib.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qxnuj0dqib"},{"Name":"integrity","Value":"sha256-rhfBavvqIWcHsiA\u002Boc\u002Bb20W5v\u002BR9D0rjJY3bxilN0C8="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"156400"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022rhfBavvqIWcHsiA\u002Boc\u002Bb20W5v\u002BR9D0rjJY3bxilN0C8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tJkNDQxfXTjWLpNu6hIGdOWEx\u002B6o3O44qXXAz5o3U5s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"420332"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022tJkNDQxfXTjWLpNu6hIGdOWEx\u002B6o3O44qXXAz5o3U5s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rhfBavvqIWcHsiA\u002Boc\u002Bb20W5v\u002BR9D0rjJY3bxilN0C8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"156400"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022rhfBavvqIWcHsiA\u002Boc\u002Bb20W5v\u002BR9D0rjJY3bxilN0C8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.nya6f92zhv.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nya6f92zhv"},{"Name":"integrity","Value":"sha256-/49SX7BQxdJFGczI9XI9hbLlHt0/m8ZUivVa663U8mk="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10832"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022/49SX7BQxdJFGczI9XI9hbLlHt0/m8ZUivVa663U8mk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-v4compatibility.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/49SX7BQxdJFGczI9XI9hbLlHt0/m8ZUivVa663U8mk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10832"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022/49SX7BQxdJFGczI9XI9hbLlHt0/m8ZUivVa663U8mk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x6hp\u002BsopnRW\u002BEKAfGdB2WnxNRtiSLZuTFyNcHkpvCYI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4792"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022x6hp\u002BsopnRW\u002BEKAfGdB2WnxNRtiSLZuTFyNcHkpvCYI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.xytinq52nq.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\@fortawesome\fa-v4compatibility.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xytinq52nq"},{"Name":"integrity","Value":"sha256-x6hp\u002BsopnRW\u002BEKAfGdB2WnxNRtiSLZuTFyNcHkpvCYI="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/@fortawesome/fa-v4compatibility.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4792"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022x6hp\u002BsopnRW\u002BEKAfGdB2WnxNRtiSLZuTFyNcHkpvCYI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.lssqqxhxcq.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\bootstrap-icons\bootstrap-icons.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lssqqxhxcq"},{"Name":"integrity","Value":"sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"176032"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\bootstrap-icons\bootstrap-icons.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"176032"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\bootstrap-icons\bootstrap-icons.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU\u002BLhqcIr\u002BZ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"130396"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU\u002BLhqcIr\u002BZ4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.xeyugjpn2t.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\bootstrap-icons\bootstrap-icons.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xeyugjpn2t"},{"Name":"integrity","Value":"sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU\u002BLhqcIr\u002BZ4="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/bootstrap-icons/bootstrap-icons.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"130396"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU\u002BLhqcIr\u002BZ4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.4k3rz0vyu7.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4k3rz0vyu7"},{"Name":"integrity","Value":"sha256-PEJKrE3E4JmFf4himlASCcFlPXbdTQlTkspAdd4y0\u002BM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187664"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022PEJKrE3E4JmFf4himlASCcFlPXbdTQlTkspAdd4y0\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PEJKrE3E4JmFf4himlASCcFlPXbdTQlTkspAdd4y0\u002BM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"187664"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022PEJKrE3E4JmFf4himlASCcFlPXbdTQlTkspAdd4y0\u002BM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.kw6ico34j7.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kw6ico34j7"},{"Name":"integrity","Value":"sha256-dA8FUy81UPJRMncbMPsVbKUZht\u002BzLXqaJEZd66MiYyo="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187500"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022dA8FUy81UPJRMncbMPsVbKUZht\u002BzLXqaJEZd66MiYyo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.pwew9n9stu.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pwew9n9stu"},{"Name":"integrity","Value":"sha256-h/exbPLXf\u002BGrExJ1sKrW6wgdEDV8/fBdVVPISyGU6SM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"187576"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022h/exbPLXf\u002BGrExJ1sKrW6wgdEDV8/fBdVVPISyGU6SM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rtmhyX0BxB8vRQH2/mTd3S6Jx329\u002BAYewqwMlQxZ\u002Bjw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"690267"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rtmhyX0BxB8vRQH2/mTd3S6Jx329\u002BAYewqwMlQxZ\u002Bjw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dA8FUy81UPJRMncbMPsVbKUZht\u002BzLXqaJEZd66MiYyo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"187500"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022dA8FUy81UPJRMncbMPsVbKUZht\u002BzLXqaJEZd66MiYyo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h/exbPLXf\u002BGrExJ1sKrW6wgdEDV8/fBdVVPISyGU6SM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"187576"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022h/exbPLXf\u002BGrExJ1sKrW6wgdEDV8/fBdVVPISyGU6SM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.yjqtaxcmbd.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-duotone.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yjqtaxcmbd"},{"Name":"integrity","Value":"sha256-rtmhyX0BxB8vRQH2/mTd3S6Jx329\u002BAYewqwMlQxZ\u002Bjw="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-duotone.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"690267"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022rtmhyX0BxB8vRQH2/mTd3S6Jx329\u002BAYewqwMlQxZ\u002Bjw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.3voflkcq2y.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3voflkcq2y"},{"Name":"integrity","Value":"sha256-n3AL55KOnDFQfY23wiuabn5y\u002BkrR5ASoNHxVRB1xhIk="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"246840"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022n3AL55KOnDFQfY23wiuabn5y\u002BkrR5ASoNHxVRB1xhIk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.ax30zy2kr1.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ax30zy2kr1"},{"Name":"integrity","Value":"sha256-3v4UnYS/5Zsttf4Sbo203SR/a2k3YjLVmVK6zm4mR88="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"246764"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00223v4UnYS/5Zsttf4Sbo203SR/a2k3YjLVmVK6zm4mR88=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KGj3IkuO0lfjMNgKdiKcm8LWD/Dzf8/R1hpd7K6K2Eg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"246928"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022KGj3IkuO0lfjMNgKdiKcm8LWD/Dzf8/R1hpd7K6K2Eg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.k90ejb6x2g.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k90ejb6x2g"},{"Name":"integrity","Value":"sha256-KGj3IkuO0lfjMNgKdiKcm8LWD/Dzf8/R1hpd7K6K2Eg="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"246928"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022KGj3IkuO0lfjMNgKdiKcm8LWD/Dzf8/R1hpd7K6K2Eg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jZOwykwnvoowStqzY9VnVc0N5tlXOj4IdRluY/0AoGM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1058682"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022jZOwykwnvoowStqzY9VnVc0N5tlXOj4IdRluY/0AoGM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.t0ns0sg9h4.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t0ns0sg9h4"},{"Name":"integrity","Value":"sha256-jZOwykwnvoowStqzY9VnVc0N5tlXOj4IdRluY/0AoGM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1058682"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022jZOwykwnvoowStqzY9VnVc0N5tlXOj4IdRluY/0AoGM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3v4UnYS/5Zsttf4Sbo203SR/a2k3YjLVmVK6zm4mR88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"246764"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u00223v4UnYS/5Zsttf4Sbo203SR/a2k3YjLVmVK6zm4mR88=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-outline.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-outline.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-n3AL55KOnDFQfY23wiuabn5y\u002BkrR5ASoNHxVRB1xhIk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"246840"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022n3AL55KOnDFQfY23wiuabn5y\u002BkrR5ASoNHxVRB1xhIk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.1iak1iy2ez.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1iak1iy2ez"},{"Name":"integrity","Value":"sha256-18QBv4KhCXSXPgiDuoY3Ianr6eqwg/7bKEqbOweImHY="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165132"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002218QBv4KhCXSXPgiDuoY3Ianr6eqwg/7bKEqbOweImHY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-igNKMW18\u002BujtVXZKhXEhZRxjh5l6a3yRi2M2geHi\u002BOQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165296"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022igNKMW18\u002BujtVXZKhXEhZRxjh5l6a3yRi2M2geHi\u002BOQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.ga8qdj936o.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ga8qdj936o"},{"Name":"integrity","Value":"sha256-iKp9JhMbmDS1LRxI9iB4tj0P0x9Rja8OuAnjKXBWF7Y="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"695434"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iKp9JhMbmDS1LRxI9iB4tj0P0x9Rja8OuAnjKXBWF7Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iKp9JhMbmDS1LRxI9iB4tj0P0x9Rja8OuAnjKXBWF7Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"695434"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iKp9JhMbmDS1LRxI9iB4tj0P0x9Rja8OuAnjKXBWF7Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-18QBv4KhCXSXPgiDuoY3Ianr6eqwg/7bKEqbOweImHY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165132"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u002218QBv4KhCXSXPgiDuoY3Ianr6eqwg/7bKEqbOweImHY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.uitkefs8hq.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uitkefs8hq"},{"Name":"integrity","Value":"sha256-igNKMW18\u002BujtVXZKhXEhZRxjh5l6a3yRi2M2geHi\u002BOQ="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165296"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022igNKMW18\u002BujtVXZKhXEhZRxjh5l6a3yRi2M2geHi\u002BOQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ov0dfEo/8W0yzHMumXlt/Ir30yacTwV0BD0SKM8jLxw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165208"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ov0dfEo/8W0yzHMumXlt/Ir30yacTwV0BD0SKM8jLxw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.ywcdfbgwea.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\keenicons\keenicons-solid.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywcdfbgwea"},{"Name":"integrity","Value":"sha256-ov0dfEo/8W0yzHMumXlt/Ir30yacTwV0BD0SKM8jLxw="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/keenicons/keenicons-solid.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165208"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022ov0dfEo/8W0yzHMumXlt/Ir30yacTwV0BD0SKM8jLxw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.4n4hmny4mk.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4n4hmny4mk"},{"Name":"integrity","Value":"sha256-wOMjhyv6WXxP9PWAtGQVqGreb9ZIVZLkYFODZp17G0w="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"156260"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022wOMjhyv6WXxP9PWAtGQVqGreb9ZIVZLkYFODZp17G0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.52oi3pjpfr.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"52oi3pjpfr"},{"Name":"integrity","Value":"sha256-TaGBkWmGd9hW1EBnqDh80nnoul0M\u002BftL/\u002BR9Wb2sHxM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"927335"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022TaGBkWmGd9hW1EBnqDh80nnoul0M\u002BftL/\u002BR9Wb2sHxM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.8z246mwop3.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8z246mwop3"},{"Name":"integrity","Value":"sha256-FMYzdzvYhedVOzFoiSWCmy60CrUID2RLwYDusUhi5JM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"98673"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022FMYzdzvYhedVOzFoiSWCmy60CrUID2RLwYDusUhi5JM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.93djx3s0j1.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"93djx3s0j1"},{"Name":"integrity","Value":"sha256-\u002B8mHAnjxqbqX\u002BMFc6bBlpjEqGnIy9hm1zRG/EX/uk5U="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"156072"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022\u002B8mHAnjxqbqX\u002BMFc6bBlpjEqGnIy9hm1zRG/EX/uk5U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wOMjhyv6WXxP9PWAtGQVqGreb9ZIVZLkYFODZp17G0w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"156260"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022wOMjhyv6WXxP9PWAtGQVqGreb9ZIVZLkYFODZp17G0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.fk6zdy3ld9.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fk6zdy3ld9"},{"Name":"integrity","Value":"sha256-/3DJvEZQz15rEtH\u002Bqnrynr8GgZk/wMX/42WM6g29VAM="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"84772"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/3DJvEZQz15rEtH\u002Bqnrynr8GgZk/wMX/42WM6g29VAM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TaGBkWmGd9hW1EBnqDh80nnoul0M\u002BftL/\u002BR9Wb2sHxM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"927335"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022TaGBkWmGd9hW1EBnqDh80nnoul0M\u002BftL/\u002BR9Wb2sHxM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B8mHAnjxqbqX\u002BMFc6bBlpjEqGnIy9hm1zRG/EX/uk5U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"156072"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022\u002B8mHAnjxqbqX\u002BMFc6bBlpjEqGnIy9hm1zRG/EX/uk5U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FMYzdzvYhedVOzFoiSWCmy60CrUID2RLwYDusUhi5JM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"98673"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022FMYzdzvYhedVOzFoiSWCmy60CrUID2RLwYDusUhi5JM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-brands-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-brands-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/3DJvEZQz15rEtH\u002Bqnrynr8GgZk/wMX/42WM6g29VAM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"84772"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022/3DJvEZQz15rEtH\u002Bqnrynr8GgZk/wMX/42WM6g29VAM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.3vtefu4fbv.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3vtefu4fbv"},{"Name":"integrity","Value":"sha256-UcosAKPjCUXlIicUf\u002B2eKW3eA688TXWJ6OlcpXQAN9s="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12900"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022UcosAKPjCUXlIicUf\u002B2eKW3eA688TXWJ6OlcpXQAN9s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fcRW8L5xS97KhLHi8hJKYqDAIKv4MVxRJBR/h2xZZqc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33916"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022fcRW8L5xS97KhLHi8hJKYqDAIKv4MVxRJBR/h2xZZqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.ju04xrcbfa.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ju04xrcbfa"},{"Name":"integrity","Value":"sha256-S2q40IJviRoL1VlJOpg3RI0sKsiuG6s4ULAIERr70pw="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33724"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022S2q40IJviRoL1VlJOpg3RI0sKsiuG6s4ULAIERr70pw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.jwrpmr4uox.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jwrpmr4uox"},{"Name":"integrity","Value":"sha256-fcRW8L5xS97KhLHi8hJKYqDAIKv4MVxRJBR/h2xZZqc="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33916"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022fcRW8L5xS97KhLHi8hJKYqDAIKv4MVxRJBR/h2xZZqc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.nkhethi2c3.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nkhethi2c3"},{"Name":"integrity","Value":"sha256-dxH6vKLQfZMiRC8pVDUxt\u002BlnA6Zc68RYkIRtAgs5L2w="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15489"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022dxH6vKLQfZMiRC8pVDUxt\u002BlnA6Zc68RYkIRtAgs5L2w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.okunamvsov.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"okunamvsov"},{"Name":"integrity","Value":"sha256-iEzhnBqefBxJbPDN61vCbifE3dqU8DsjmmPtKDXzHW0="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"113535"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iEzhnBqefBxJbPDN61vCbifE3dqU8DsjmmPtKDXzHW0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iEzhnBqefBxJbPDN61vCbifE3dqU8DsjmmPtKDXzHW0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"113535"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022iEzhnBqefBxJbPDN61vCbifE3dqU8DsjmmPtKDXzHW0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-S2q40IJviRoL1VlJOpg3RI0sKsiuG6s4ULAIERr70pw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"33724"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022S2q40IJviRoL1VlJOpg3RI0sKsiuG6s4ULAIERr70pw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dxH6vKLQfZMiRC8pVDUxt\u002BlnA6Zc68RYkIRtAgs5L2w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15489"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022dxH6vKLQfZMiRC8pVDUxt\u002BlnA6Zc68RYkIRtAgs5L2w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-regular-400.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-regular-400.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UcosAKPjCUXlIicUf\u002B2eKW3eA688TXWJ6OlcpXQAN9s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12900"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022UcosAKPjCUXlIicUf\u002B2eKW3eA688TXWJ6OlcpXQAN9s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.4j48xsa5uu.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4j48xsa5uu"},{"Name":"integrity","Value":"sha256-EKaOASCdk5r6kxjucWAbCm4Q8CXUzW2YpJLTQLc5Qfs="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.woff2"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"96752"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022EKaOASCdk5r6kxjucWAbCm4Q8CXUzW2YpJLTQLc5Qfs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ilf4qQqGPHNrYl8t0giUCPZxHcnyMvqTN/EJ2FWEpY8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"226312"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022ilf4qQqGPHNrYl8t0giUCPZxHcnyMvqTN/EJ2FWEpY8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.gcaxs9so36.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gcaxs9so36"},{"Name":"integrity","Value":"sha256-oNIbKrQNSIYMauleAMnpyhLss0wjujuILtgTQNRQnGc="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.woff"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"125421"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oNIbKrQNSIYMauleAMnpyhLss0wjujuILtgTQNRQnGc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.ld538ba5sb.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ld538ba5sb"},{"Name":"integrity","Value":"sha256-B841WZCyfNCW35hk4MECVz8MrgINYRruJXiqPXl\u002BQjA="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.ttf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"226128"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022B841WZCyfNCW35hk4MECVz8MrgINYRruJXiqPXl\u002BQjA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.o72ffib3s7.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o72ffib3s7"},{"Name":"integrity","Value":"sha256-DODMQDzNCaLVXc6fkXkfHY\u002BEisDqxIXsm\u002BNmwLnZZnc="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.svg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"923151"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022DODMQDzNCaLVXc6fkXkfHY\u002BEisDqxIXsm\u002BNmwLnZZnc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.svg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.svg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DODMQDzNCaLVXc6fkXkfHY\u002BEisDqxIXsm\u002BNmwLnZZnc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"923151"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022DODMQDzNCaLVXc6fkXkfHY\u002BEisDqxIXsm\u002BNmwLnZZnc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.ttf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.ttf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B841WZCyfNCW35hk4MECVz8MrgINYRruJXiqPXl\u002BQjA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"226128"},{"Name":"Content-Type","Value":"application/x-font-ttf"},{"Name":"ETag","Value":"\u0022B841WZCyfNCW35hk4MECVz8MrgINYRruJXiqPXl\u002BQjA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.ubeket7o7u.eot">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.eot'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ubeket7o7u"},{"Name":"integrity","Value":"sha256-ilf4qQqGPHNrYl8t0giUCPZxHcnyMvqTN/EJ2FWEpY8="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.eot"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"226312"},{"Name":"Content-Type","Value":"application/vnd.ms-fontobject"},{"Name":"ETag","Value":"\u0022ilf4qQqGPHNrYl8t0giUCPZxHcnyMvqTN/EJ2FWEpY8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.woff">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.woff'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oNIbKrQNSIYMauleAMnpyhLss0wjujuILtgTQNRQnGc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"125421"},{"Name":"Content-Type","Value":"application/font-woff"},{"Name":"ETag","Value":"\u0022oNIbKrQNSIYMauleAMnpyhLss0wjujuILtgTQNRQnGc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/fonts/line-awesome/la-solid-900.woff2">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\fonts\line-awesome\la-solid-900.woff2'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EKaOASCdk5r6kxjucWAbCm4Q8CXUzW2YpJLTQLc5Qfs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"96752"},{"Name":"Content-Type","Value":"font/woff2"},{"Name":"ETag","Value":"\u0022EKaOASCdk5r6kxjucWAbCm4Q8CXUzW2YpJLTQLc5Qfs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\plugins.bundle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CC684JfdOVmz\u002B/J/GueVSM9WiCyexy0hB2yMLU7YwYs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"746271"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CC684JfdOVmz\u002B/J/GueVSM9WiCyexy0hB2yMLU7YwYs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.eslpp4aime.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\plugins.bundle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eslpp4aime"},{"Name":"integrity","Value":"sha256-clxNA82SMWq/4PIlYfrvSlEK4BD2qF\u002BCkGRdTq9SBAQ="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2464848"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022clxNA82SMWq/4PIlYfrvSlEK4BD2qF\u002BCkGRdTq9SBAQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\plugins.bundle.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-clxNA82SMWq/4PIlYfrvSlEK4BD2qF\u002BCkGRdTq9SBAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2464848"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022clxNA82SMWq/4PIlYfrvSlEK4BD2qF\u002BCkGRdTq9SBAQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.wqjkpe4dmh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\plugins\global\plugins.bundle.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wqjkpe4dmh"},{"Name":"integrity","Value":"sha256-CC684JfdOVmz\u002B/J/GueVSM9WiCyexy0hB2yMLU7YwYs="},{"Name":"label","Value":"_content/mbg-integration-docs-auth/plugins/global/plugins.bundle.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"746271"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CC684JfdOVmz\u002B/J/GueVSM9WiCyexy0hB2yMLU7YwYs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Oct 2024 22:35:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

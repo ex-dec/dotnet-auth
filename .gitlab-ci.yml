@@ -1,0 +1,49 @@
+variables:
+  DOCKER_HOST: tcp://docker:2375
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+  K8S_NAMESPACE_DEV: sindika-dev
+  PROJECT: auth-docs
+
+stages:
+  - build
+  - deploy
+
+build_develop:
+  image: docker:20.10.16
+  services:
+    - docker:20.10.16-dind
+  stage: build
+  only:
+    - develop
+  before_script:
+    - docker info
+    - docker login ${CI_REGISTRY} -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD}
+  script:
+    - HASH=${CI_COMMIT_SHA:0:7}
+    - docker build -f ./Dockerfile --build-arg REDIS_HOST=${REDIS_HOST} --build-arg REDIS_PASS=${REDIS_PASS} -t ${CI_REGISTRY}/${CI_PROJECT_PATH}:latest .
+    - docker build -f ./Dockerfile --build-arg REDIS_HOST=${REDIS_HOST} --build-arg REDIS_PASS=${REDIS_PASS} -t ${CI_REGISTRY}/${CI_PROJECT_PATH}:${HASH} .
+    - docker push ${CI_REGISTRY}/${CI_PROJECT_PATH}:latest
+    - docker push ${CI_REGISTRY}/${CI_PROJECT_PATH}:${HASH}
+  after_script:
+    - docker logout ${CI_REGISTRY}
+  tags:
+    - docker
+
+deploy_develop:
+  image:
+    name: bitnami/kubectl:latest
+    entrypoint: ['']
+  stage: deploy
+  only:
+    - develop
+  before_script:
+    - mkdir -p ~/.kube
+    - echo "$KUBECONFIG_DATA" > ~/.kube/config
+    - chmod 600 ~/.kube/config
+  script:
+    - HASH=${CI_COMMIT_SHA:0:7}
+    - kubectl set image deployment/${PROJECT} ${PROJECT}=${CI_REGISTRY}/${CI_PROJECT_PATH}:${HASH} -n ${K8S_NAMESPACE_DEV}
+  allow_failure: true
+  tags:
+    - docker
