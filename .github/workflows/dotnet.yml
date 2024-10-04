@@ -46,4 +46,4 @@ jobs:
           echo "${{ secrets.KUBE_CONFIG }}" | cat > $HOME/.kube/config
       - name: Deploy to Kubernetes
         run: |
-          kubectl apply -f k8s/deployment.yaml
+          kubectl edit deployment.apps/auth-docs auth-docs=exdec/dotnet-auth:latest -n sindikda-dev
